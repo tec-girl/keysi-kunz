@@ -122,3 +122,7 @@ status: [ ACCESS GRANTED ]
 <!--
 **keysi-kunz/keysi-kunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+## Acknowledgments
+
+Prepared in collaboration by **psehgaft**, **san985tos**, **frankjunker87-arch** and **tec-girl**.
